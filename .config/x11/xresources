@@ -2,7 +2,7 @@
 *.alpha: 0.8
 
 !! Set a default font and font size as below:
-*.font: monospace:size=10
+*.font: iosevka extended:size=12
 
 /* name		dark	light */
 /* black	0	8 */
@@ -54,6 +54,82 @@
 /* *.background: #fbf1c7 */
 /* *.foreground: #282828 */
 /* st.alpha: 0.9 */
+
+/* !! jmbi-warm: */
+/* ! special
+/* *.foreground:   #fffbd0
+/* *.background:   #221d16
+/* *.cursorColor:  #fffbd0
+
+/* ! black
+/* *.color0:       #221d16
+/* *.color8:       #9ca375
+
+/* ! red
+/* *.color1:       #9e412f
+/* *.color9:       #ffa76e
+
+/* ! green
+/* *.color2:       #ceb86e
+/* *.color10:      #e1c372
+
+/* ! yellow
+/* *.color3:       #ffce49
+/* *.color11:      #ffd97c
+
+/* ! blue
+/* *.color4:       #f7b754
+/* *.color12:      #deb645
+
+/* ! magenta
+/* *.color5:       #7c8f6f
+/* *.color13:      #ffc78b
+
+/* ! cyan
+/* *.color6:       #e63410
+/* *.color14:      #d65226
+
+/* ! white
+/* *.color7:       #ffdeb6
+/* *.color15:      #ffedc1
+
+/* !! jmbi: */
+/*! special
+/**.foreground:   #ffffff
+/**.background:   #1e1e1e
+/**.cursorColor:  #ffffff
+/*
+/*! black
+/**.color0:       #5a7260
+/**.color8:       #8da691
+/*
+/*! red
+/**.color1:       #8f423c
+/**.color9:       #eeaa88
+/*
+/*! green
+/**.color2:       #bbbb88
+/**.color10:      #ccc68d
+/*
+/*! yellow
+/**.color3:       #f9d25b
+/**.color11:      #eedd99
+/*
+/*! blue
+/**.color4:       #e0ba69
+/**.color12:      #c9b957
+/*
+/*! magenta
+/**.color5:       #709289
+/**.color13:      #ffcbab
+/*
+/*! cyan
+/**.color6:       #d13516
+/**.color14:      #c25431
+/*
+/*! white
+/**.color7:       #efe2e0
+/**.color15:      #f9f1ed
 
 /* !! brogrammer: */
 /* *.foreground:  #d6dbe5 */
