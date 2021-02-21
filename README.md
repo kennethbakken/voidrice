@@ -22,10 +22,10 @@ These are the dotfiles deployed by [LARBS](https://larbs.xyz) and as seen on
 ## Usage
 
 These dotfiles are intended to go with numerous suckless programs I use:
-
-- [dwm](https://github.com/lukesmithxyz/dwm) (window manager)
-- [dwmblocks](https://github.com/lukesmithxyz/dwmblocks) (statusbar)
-- [st](https://github.com/lukesmithxyz/st) (terminal emulator)
+(these are mine forks not luke's)
+- [dwm](https://github.com/kennethbakken/dwm) (window manager)
+- [dwmblocks](https://github.com/kennethbakken/dwmblocks) (statusbar)
+- [st](https://github.com/kennethbakken/st) (terminal emulator)
 
 I also recommend trying out
 [mutt-wizard](https://github.com/lukesmithxyz/mutt-wizard), which additionally
@@ -38,8 +38,8 @@ as well.
 Use [LARBS](https://larbs.xyz) to autoinstall everything:
 
 ```
-curl -LO larbs.xyz/larbs.sh
+curl -LO https://raw.githubusercontent.com/kennethbakken/LARBS/master/larbs.sh
 ```
 
 or clone the repo files directly to your home directory and install the
-[dependencies](https://github.com/LukeSmithxyz/LARBS/blob/master/progs.csv).
+[dependencies](https://github.com/kennethbakken/LARBS/blob/master/progs.csv).
