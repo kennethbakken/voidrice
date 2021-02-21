@@ -11,9 +11,9 @@ pulseaudio &		# service for sound
 mpd &			# music player daemon-you might prefer it as a service though
 en &			# sets x english keyboard layout and runs remaps
 #remaps &		# run the remaps script, switching caps/esc and more; check it for more info
-setbg &		# set the background with the `setbg` script
+#setbg &		# set the background with the `setbg` script
 #nitrogen --restore &	# restore background with nitrogen
-#randomwal &
+randomwal &
 #xrdb ${XDG_CONFIG_HOME:-$HOME/.config/x11}/Xresources &	# Uncomment to use Xresources colors/settings on startup
 #xcompmgr &		# xcompmgr for transparency
 startpicom &
