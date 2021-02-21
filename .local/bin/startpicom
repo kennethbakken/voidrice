@@ -1,0 +1,10 @@
+#!/bin/sh
+
+# Terminate already running picom insatnces
+killall -q picom
+
+# Launch a new compton instance
+picom --config $HOME/.config/picom.conf -b
+
+# Print status
+printf "Picom launched!"

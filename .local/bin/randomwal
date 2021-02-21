@@ -1,0 +1,7 @@
+#!/bin/sh
+dir=(~/Wallpapers/)
+wallpaper=$(ls $dir | shuf -n 1)
+wal -i "$dir$wallpaper"
+#xwallpaper --zoom  "$dir$wallpaper"
+notify-send "This background $dir$wallpaper"
+#notify-send "This background ~/Wallpapers/$wallpaper"
