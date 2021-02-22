@@ -1,0 +1,10 @@
+#!/bin/sh
+
+case $BLOCK_BUTTON in
+	1) books ;;
+	3) st -e lf ~/Documents ;;
+esac
+
+openbook="📖"
+
+echo "$openbook"
