@@ -1,0 +1,4 @@
+#!/bin/sh
+dir=~/Books/
+format=$(cd $dir && ls | dmenu)
+cd ~/Books/$format && ls | dmenu -l 20 | xargs zathura
