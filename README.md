@@ -1,6 +1,6 @@
 # The Voidrice, my forked dotfiles from (Luke Smith <https://lukesmith.xyz>'s dotfiles)
 
-[this voidrice with my forks of the suckless utilities plus bloated but sexy blur](https://github.com/kennethbakken/voidrice/blob/master/Pictures/screenshots/pic-full-210223-2248-02.png)
+[this voidrice with my forks of the suckless utilities plus bloated but sexy blur](https://raw.githubusercontent.com/kennethbakken/voidrice/master/Pictures/screenshots/pic-full-210223-2248-02.png)
 
 These are the dotfiles deployed by [LARBS](https://larbs.xyz) and as seen on
 [my YouTube channel](https://youtube.com/c/lukesmithxyz).
