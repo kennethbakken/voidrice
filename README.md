@@ -19,6 +19,8 @@ These are the dotfiles deployed by [LARBS](https://larbs.xyz) and as seen on
 	- File bookmarks in `~/.config/shell/bm-files`
 	- Directory bookmarks in `~/.config/shell/bm-dirs`
 
+On my fork of voidrice i also have my directory structure in here, so it gets created on a minimal install as well. For example i have a few of the books i read and the wallpapers i always install that i shamelessly stole from [distrotube's wallpaper repo](https://gitlab.com/dwt1/wallpapers) get downloaded. This may seem unecessary for people who don't want all my nazi books and 300+ wallpapers. But again, this is a fork intended for personal use, but im not stopping anyone if they want a complete replica of my system.1
+
 ## Usage
 
 These dotfiles are intended to go with numerous suckless programs I use:
