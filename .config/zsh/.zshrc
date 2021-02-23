@@ -79,3 +79,4 @@ source /usr/share/zsh/plugins/fast-syntax-highlighting/fast-syntax-highlighting.
 # fetch and autostart
 pfetch
 cat ~/.local/share/matthew19:26
+echo
