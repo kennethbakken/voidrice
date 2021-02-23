@@ -1,5 +1,5 @@
 #!/bin/sh
-dir=(~/Wallpapers/)
+dir=(~/wallpapers/)
 wallpaper=$(ls $dir | shuf -n 1)
 wal -i "$dir$wallpaper"
 #xwallpaper --zoom  "$dir$wallpaper"
